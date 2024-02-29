@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
-    <p><strong>Framework</strong></p>
+<!--     <p><strong>Framework</strong></p> -->
     <div>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> -->
     </div>
     <!-- Server -->
-    <p><strong>Server</strong></p>
+<!--     <p><strong>Server</strong></p> -->
     <div>
 <!--         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  -->
 <!--         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> -->
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div> -->
     <!-- Others -->
-    <p><strong>Programming Language</strong></p>
+<!--     <p><strong>Programming Language</strong></p> -->
     <div>
 <!--         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
