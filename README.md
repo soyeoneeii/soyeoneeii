@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 <h5>
 <li>홍익대학교 컴퓨터공학과 <sub>(2023.03 ~ )</sub></li>
 <li>홍익대학교 멋쟁이사자처럼 11기 • BE 아기사자 <sub>(2023.03 ~ 2023.12)</sub></li>
-<li>홍익대학교 UMC 5기 • Server_SpringBoot <sub>(2023.09 ~ )</sub></li>
+<li>홍익대학교 UMC 5기 • Server_SpringBoot <sub>(2023.09 ~ 2024.02)</sub></li>
 <li>홍익대학교 멋쟁이사자처럼 12기 운영진 • BE 파트장 <sub>(2024.03 ~ )</sub></li>
 </h5>
