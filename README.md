@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <!--     Server -->
     <p><strong>Server</strong></p>
     <div>
-<!--         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  -->
 <!--         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> -->
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div>
