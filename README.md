@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 - repository: https://github.com/hongik-devtalk/Devtalk-Server-Application
 - live: https://hongikdevtalk.com/
 - DevTalk X UMC X 멋쟁이사자처럼 X HYPEN 협력
-- 백엔드 팀 리드
-  - 유저 및 어드민 홈화면 조회 API
-  - 세미나 신청 시 이메일 자동 발송 로직
+- 백엔드 팀 리드 (유저 및 어드민 홈화면 조회 API, 세미나 신청 시 이메일 자동 발송 로직)
 - 서버 배포 및 CI/CD 구축
 
