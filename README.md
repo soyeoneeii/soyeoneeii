@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Email: syp0463@gmail.com
-- LinkedIn: https://www.linkedin.com/in/soyeon-park-9783543a1/
+- LinkedIn: https://www.linkedin.com/in/soyeoneeii/
 - Tistory: https://parkso-yeon.tistory.com/
 
 ## History
