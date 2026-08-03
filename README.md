@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - UMC 5기 • Server SpringBoot <sub>(2023.09 ~ 2024.02)<sub/>
 - 멋쟁이사자처럼 11기 • Backend <sub>(2023.03 ~ 2023.12)<sub/>
 - 멋쟁이사자처럼 12기 • Backend 운영진 (파트장) <sub>(2024.03 ~ 2024.12)<sub/>
-- 홍익대학교 컴퓨터공학과 DINA 학부연구원 <sub>(2025.12 ~ 현재)<sub/>
+- 홍익대학교 컴퓨터공학과 [DINA](https://dina.hongik.ac.kr/) 학부연구원 <sub>(2025.12 ~ 현재)<sub/>
 
 ## Skills
 - Python, Java
