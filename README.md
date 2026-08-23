@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Soyeon Park
+### Hi there 👋 I'm Soyeon
 
 <!--
 **soyeoneeii/soyeoneeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
