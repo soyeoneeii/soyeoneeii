@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - Email: syp0463@gmail.com
 - LinkedIn: https://www.linkedin.com/in/soyeoneeii/
-- Tistory: https://parkso-yeon.tistory.com/
+- Blog (Notes & Thoughts): https://parkso-yeon.tistory.com/
 
 ## History
 - 홍익대학교 컴퓨터공학과 주전공 <sub>(2023.03 ~ 2027.02 졸업예정)<sub/>
